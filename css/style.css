@@ -1,0 +1,185 @@
+ #logo{
+    /*background-image: url("../images/logo.png");*/
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+} 
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#index_body{
+    background-color: dimgray;
+}
+@media print {
+    .container {
+      width: auto;
+    }
+  }
+
+.carousel-inner{
+    height: 700px;
+    margin-top: 50px;
+}
+ 
+.navbar-brand{
+    font-weight:bold;
+    font-size: 30px;
+}
+.jumbotron{
+    margin-top:auto;
+}
+.card text-center{
+    margin-top: 50px;
+}
+#letter{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+
+
+#logo{
+    text-align: center;
+    margin-top: 40px;
+}
+.form-row{
+    width: 700px;
+    margin-left: 150px;
+}
+.scrollspy-example{
+    margin-left: 500px;
+    margin-bottom: 600px;
+}
+
+#beck{
+    text-align: center;
+}
+
+.rounded-circle{
+   margin-left: 70px;
+}
+.blog-footer{
+    text-align: center;
+    backface-visibility: visible;
+    background-color: rgb(78, 76, 76);
+
+}
+#list-example{
+    margin-top: 100px;
+}
+
+#vid{
+    text-align: center;
+}
+
+.pdf_links a{
+    padding: 20px;
+    margin-right: 100px;
+    text-align: center;
+    padding-right: 50px;
+    color: blue;
+    text-decoration: none;
+} 
+
+/*Lesson with Media*/
+.media{
+    margin-top: 50px;
+} 
+.media-body{
+    margin-left: 40px;
+    
+}
+/*End Of Lesson  With Media*/
+ 
+#bg-image-contact{
+    background-image: url('../images/49.jpg');
+    
+}
+
+
+/*Lessons*/
+#lesson_point{
+    margin-top: 100px;
+    text-align: center;
+}
+/* End Of Lesson/*
+
+/*Contact*/
+#contact_point{
+    margin-top: 100px;
+    
+}
+/* End Of Lesson/*
+
+
+/*About Us*/
+#beck_about_us{
+    margin-top: 70px;
+    text-align: center;
+}
+/*End of About Us*/
+
+#footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+    background: #2e2e2e;
+    text-align: center;
+  }
+
+  #footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  #footer a:hover {
+    color: #2272eb;
+  }
+
+  #footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 -7.5px;
+  }
+
+  #footer ul > li {
+    display: inline-block;
+    margin: 0 7.5px;
+  }
+
+  #btn1{
+      color: rgb(28, 129, 2);
+  }
+  
+  #btn_home{
+      margin-left: 30px;
+      font-size: 20px;
+  }
+
+  #btn_assignment{
+      margin-top: 150px;
+      margin-left: 630px;
+  }
+  #btn_project{
+      margin-left: 620px;
+      font-size: 20px;
+  }
+
+  #individual_project{
+      margin-top: -40px;
+  }
+
+
+  .btn{
+      margin-left: 90px;
+      margin-bottom: 20px;
+  }
+  @media only screen and (min-width: 768px) {
+    #footer .social-icons {
+      float: right;
+    }
+  }
+
